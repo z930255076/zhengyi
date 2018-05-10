@@ -1,0 +1,1 @@
+创建文件夹，右击bash，网页上点击ssh获取地址并粘贴到bash，再输入key：thundersoft
